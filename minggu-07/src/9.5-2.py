@@ -1,1 +1,0 @@
-class DerivedClassName(modname.BaseClassName):
