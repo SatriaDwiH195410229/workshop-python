@@ -1,1 +1,0 @@
-cd hello-world-python-psycopg2

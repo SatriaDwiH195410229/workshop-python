@@ -1,1 +1,0 @@
-git clone https://github.com/cockroachlabs/hello-world-python-psycopg2

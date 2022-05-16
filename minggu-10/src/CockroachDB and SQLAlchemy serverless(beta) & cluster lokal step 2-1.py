@@ -1,1 +1,0 @@
-git clone https://github.com/cockroachlabs/example-app-python-sqlalchemy/
