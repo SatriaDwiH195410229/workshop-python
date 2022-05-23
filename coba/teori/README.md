@@ -1,3 +1,0 @@
-# Coba
-
-![Gambar](coba.jpg)
