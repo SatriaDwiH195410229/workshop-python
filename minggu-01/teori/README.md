@@ -1,0 +1,2 @@
+Memperkenalkan berbagai fitur bahasa pemrograman python, contoh dimulai dengan tipe data, statment, dan ekpresi.
+Disini akan mempelajari bagaimana menggunakan python interpreter hingga apa itu bahasa python.
